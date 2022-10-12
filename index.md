@@ -4,8 +4,8 @@ I'm an M.Sc student at the [Technion - Israel Institute of Technology](https://w
 # Publications
 ## [CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior](https://arxiv.org/abs/2205.14140)
 
-**Eldar David Abraham**¹, Karel D'Oosterlinck²⋅³, Amir Feder¹, Yair Ori Gat¹, Atticus Geiger², Christopher Potts², Roi Reichart¹ and Zhengxuan Wu².
-
-¹Technion – Israel Institute of Technology   ²Stanford University   ³Ghent University.
-
+**Eldar David Abraham**¹, Karel D'Oosterlinck²ʼ³, Amir Feder¹, Yair Ori Gat¹, Atticus Geiger², Christopher Potts², Roi Reichart¹ and Zhengxuan Wu².
+<br />
+¹Technion – Israel Institute of Technology  ²Stanford University  ³Ghent University.
+<br />
 Accepted paper at NeurIPS 2022.
