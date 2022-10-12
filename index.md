@@ -6,6 +6,6 @@ I'm an M.Sc student at the [Technion - Israel Institute of Technology](https://w
 
 **Eldar David Abraham**¹, Karel D'Oosterlinck²ʼ³, Amir Feder¹, Yair Ori Gat¹, Atticus Geiger², Christopher Potts², Roi Reichart¹, Zhengxuan Wu²
 <br />
-¹Technion – Israel Institute of Technology  ²Stanford University  ³Ghent University.
+¹Technion – Israel Institute of Technology &nbsp; ²Stanford University &nbsp; ³Ghent University.
 <br /><br />
 Accepted paper at NeurIPS 2022.
